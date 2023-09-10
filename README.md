@@ -1,4 +1,4 @@
-# testing_flutter
+# healthyHabits_Project_App
 
 A new Flutter project.
 
